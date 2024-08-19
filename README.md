@@ -26,3 +26,6 @@ Visualizers
 Shuffle and repeat functionality
 Metadata display (song title, artist, album art)
 Customize the UI: Modify the app's appearance by changing colors, fonts, and layout.
+
+
+ for more information visit https://t.me/Natuel
